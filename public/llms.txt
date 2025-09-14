@@ -1,0 +1,2 @@
+## Pages
+- [GSC Traffic Forecast - AI-Powered Analytics Dashboard](/): Advanced Google Search Console traffic forecasting with AI-powered predictions and beautiful data visualization.
